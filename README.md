@@ -14,4 +14,4 @@ Consiste em duas páginas interligadas: uma página inicial (`index.html`) e uma
 ## 🚀 Como Executar
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git
+   git clone https://github.com/TonyArantes/aulagit.git
